@@ -1,0 +1,1 @@
+# Analisis-Sentimen-Opini-Publik-terhadap-Pemindahan-Ibu-Kota-IKN-di-Twitter
